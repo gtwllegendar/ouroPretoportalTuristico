@@ -1,0 +1,18 @@
+portal-turistico/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── assets/
+    └── images/
+        ├── atracao-casa-contos.jpg
+        ├── atracao-matriz-pilar.jpg
+        ├── atracao-praca-tiradentes.jpg
+        ├── atracao-sao-francisco.jpg
+        ├── evento-semana-santa.jpg
+        └── hero-ouro-preto.jpg
